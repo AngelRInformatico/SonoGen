@@ -46,7 +46,7 @@ export function AppSidebar() {
           </SidebarGroupContent>
         </SidebarGroup>
 
-        <SidebarGroup defaultOpen>
+        <SidebarGroup>
           <SidebarGroupLabel className="text-sidebar-foreground/60">
             {!collapsed && "Generadores"}
           </SidebarGroupLabel>
